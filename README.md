@@ -25,8 +25,8 @@ Hope my resposits excites you 🥰
 ### 💘 Contact Me 💘
 <div align=center>  
 
-<a href="https://uumini.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/>
-<a href="https://www.instagram.com/kym__1109/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=GitHub Sponsors&logoColor=white"/>
+<a href="https://uumini.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-ec6eba?style=flat&logo=GitHub Sponsors&logoColor=white"/>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-cb226e?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kym__1109/)](https://www.instagram.com/kym__1109/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yumin3144@naver.com)](mailto:yumin3144@naver.com)
 
 </div>
